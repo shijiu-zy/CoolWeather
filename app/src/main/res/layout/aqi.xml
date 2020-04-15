@@ -64,7 +64,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:textColor="#fff"
-                    android:text="PM2.5指数"/>
+                    android:text="PM2.5 指数"/>
             </LinearLayout>
         </RelativeLayout>
     </LinearLayout>
